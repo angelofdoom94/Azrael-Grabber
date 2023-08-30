@@ -1,7 +1,7 @@
 # Azrael-Grabber
-This is a  brand new discord token grabber and ip grabber made for those who cant code
+This is a  brand new discord token grabber and ip grabber made for those who cant code.
 
-Please ignore the icon i converted the python file into an exe but i cant find how to change the icon it will not give me an option
+If there are any errors please report them to https://shorturl.at/EFHNO thank you. <3
 
 ![image](https://github.com/angelofdoom94/Azrael-Grabber/assets/140864500/558306cc-193a-475a-97fb-5d0c5165d277)
 
