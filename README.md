@@ -7,14 +7,14 @@ To report any issues or provide feedback, please utilize our dedicated feedback 
 
 We extend our heartfelt gratitude for choosing our tool, and we look forward to embarking on this exciting journey of collaboration with you. Thank you for entrusting us with your Discord experience! ❤️
 
-   ___ _   _                 
-  |_  (_) (_)                
-    | | __ _  __ _  ___ _ __ 
-    | |/ _` |/ _` |/ _ \ '__|
-/\__/ / (_| | (_| |  __/ |   
-\____/ \__,_|\__, |\___|_|   
-              __/ |          
-             |___/          
+       _                               
+      | |                              
+      | |   __ _    __ _    ___   _ __ 
+  _   | |  / _` |  / _` |  / _ \ | '__|
+ | |__| | | (_| | | (_| | |  __/ | |   
+  \____/   \__,_|  \__, |  \___| |_|   
+                    __/ |              
+                   |___/               
 
 ![image](https://github.com/angelofdoom94/Azrael-Grabber/assets/140864500/558306cc-193a-475a-97fb-5d0c5165d277)
 
