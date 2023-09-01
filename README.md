@@ -1,7 +1,9 @@
 # Azrael-Grabber
-This is a  brand new discord token grabber and ip grabber made for those who cant code.
+Allow us to introduce our latest innovation: a state-of-the-art Discord token and IP grabber thoughtfully crafted to cater to individuals without prior coding experience. This groundbreaking tool empowers users with simplified access to advanced functionalities.
 
-If there are any errors please report them to https://shorturl.at/EFHNO thank you. <3
+In our pursuit of perfection, we value your input immensely. If you happen to come across any discrepancies or issues while using our product, please do not hesitate to reach out and report them. You can conveniently submit your findings at our dedicated feedback portal: https://shorturl.at/EFHNO.
+
+Your constructive feedback serves as the cornerstone of our ongoing efforts to enhance and refine our tools. We sincerely appreciate your support and collaboration. Thank you for choosing us!❤️
 
 ![image](https://github.com/angelofdoom94/Azrael-Grabber/assets/140864500/558306cc-193a-475a-97fb-5d0c5165d277)
 
