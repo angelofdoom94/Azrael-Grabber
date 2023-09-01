@@ -12,7 +12,7 @@ We extend our heartfelt gratitude for choosing our tool, and we look forward to 
 
 # Features
 ```
-**Discord token info**
+𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐭𝐨𝐤𝐞𝐧 𝐢𝐧𝐟𝐨
 
 Nitro
 Badges
