@@ -11,7 +11,7 @@ We extend our heartfelt gratitude for choosing our tool, and we look forward to 
 
 
 # Features
-`Discord token info
+```Discord token info
 
 
 Nitro
@@ -50,4 +50,4 @@ Check if being run in a virustotal sandbox
 Startup persistence
 
 Place stub in appdata
-Add to startup registry`
+Add to startup registry```
