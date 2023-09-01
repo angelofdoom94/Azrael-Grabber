@@ -3,7 +3,7 @@ We are thrilled to introduce you to our latest technological marvel: a cutting-e
 
 At our core, we are committed to excellence, and your experience matters deeply to us. If, during your journey with our tool, you encounter any discrepancies, errors, or have valuable insights to share, we warmly invite you to be an integral part of our continuous improvement process. Your contributions are highly valued, and your feedback plays a pivotal role in our ongoing development.
 
-To report any issues or provide feedback, please utilize our dedicated feedback portal at [ Is here } (https://shorturl.at/EFHNO). Your active participation ensures that we can refine and elevate our product to better serve you and the wider community.
+To report any issues or provide feedback, please utilize our dedicated feedback portal at [Is here](https://shorturl.at/EFHNO) Your active participation ensures that we can refine and elevate our product to better serve you and the wider community.
 
 We extend our heartfelt gratitude for choosing our tool, and we look forward to embarking on this exciting journey of collaboration with you. Thank you for entrusting us with your Discord experience!
 
